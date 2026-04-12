@@ -1,0 +1,10 @@
+{
+    "id": "larix",
+    "title": "Project L.A.R.I.X.",
+    "version": "0.1.0-beta",
+    "description": "Дополнение для New Generation",
+    "creator": "EsPaKira",
+    "dependencies": [
+        "!newgen"
+    ]
+}

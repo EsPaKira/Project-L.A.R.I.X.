@@ -1,0 +1,3 @@
+# Предметы
+
+minerva summoning card=карта призыва минервы
