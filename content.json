@@ -1,9 +1,11 @@
 {
   "blocks": [],
   "items": [
-    "minerva_summoning_card"
+    "minerva_summoning_card",
+    "bono_kelsier_summoning_card"
   ],
   "entities": [
-    "minerva"
+    "minerva",
+    "bono_kelsier"
   ]
 }
